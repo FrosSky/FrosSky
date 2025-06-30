@@ -2,7 +2,7 @@
 - Android Developer & Roblox Studio Developer<br/>
 - Making Projects is my Hobby<br/>
 
-## 💻 My Programming Languages
+## 💻 My Programming Languages Knowledge
 - Java
 - Python
 - Luau
