@@ -1,6 +1,6 @@
 ## Hi, I'm FrosSky!
-- Android Developer & Roblox Studio Developer<br/>
-- Car Enthusiast<br/>
+- Android Developer<br/>
+- Roblox Studio Developer<br/>
 
 ## My Programming Languages Knowledge
 - Java
